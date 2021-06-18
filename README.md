@@ -2,7 +2,7 @@
 
 Come check out my github for my hackathon, school, and side projects. 
 
-![Image of Diane](https://twitter.com/diane_margo/status/1264793022501281792/photo/1)
+![Image of Diane](https://www.facebook.com/photo?fbid=3267793269900547&set=a.166378766708695)
 
 <!--
 **dmmargo/dmmargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
