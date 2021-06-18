@@ -1,11 +1,15 @@
-### Hi there 👋
+# It's me, Diane!👋👋👋
+
+Come check out my github for my hackathon, school, and side projects. 
+
+![Image of Diane](https://media-exp1.licdn.com/dms/image/C5603AQHrSYSgoVu7YA/profile-displayphoto-shrink_800_800/0/1567546216455?e=1628726400&v=beta&t=Kxh4QUV5A81wtNWKix3d2TsI1DZUHd1OkGympsoKB4g)
 
 <!--
 **dmmargo/dmmargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
