@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2> Hello, I'm Diane Margo!!👋👋👋 <img src="https://thumbs.gfycat.com/FlawedBitesizedFantail-max-1mb.gif" width="50"></h2>
 
-<img align='right' src="https://art.pixilart.com/8c9e158c184a944.gif" width="230">
+<img align='right' src="https://c.tenor.com/lUFliafCu_MAAAAM/hello.gif" width="230">
 
 <p><em>IS Security Associate at 
   <a href="https://www.sce.com/">Southern California Edison</a><img src="https://pbs.twimg.com/profile_images/1217944376850014209/VyxO_Sqq_400x400.jpg" width="30">
