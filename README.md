@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2> Hello, I'm Diane Margo!!👋👋👋 <img src="https://media4.giphy.com/media/j0dfrH9q6MBIbVtp4v/giphy.gif?cid=790b76116da7ff2ec7820aa17fac7c596714af980fb71c47&rid=giphy.gif&ct=s" width="50"></h2>
 
-<img align='right' src="https://i.pinimg.com/originals/1b/4c/e4/1b4ce4120e8ab274eaab273f805a2401.gif" width="230">
+<img align='right' src="https://art.pixilart.com/8c9e158c184a944.gif" width="230">
 
 <p><em>IS Security Associate at 
   <a href="https://www.sce.com/">Southern California Edison</a><img src="https://pbs.twimg.com/profile_images/1217944376850014209/VyxO_Sqq_400x400.jpg" width="30">
