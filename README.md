@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hello, I'm Diane Margo!!👋👋👋 <img src="https://media4.giphy.com/media/j0dfrH9q6MBIbVtp4v/giphy.gif?cid=790b76116da7ff2ec7820aa17fac7c596714af980fb71c47&rid=giphy.gif&ct=s" width="50"></h2>
+<h2> Hello, I'm Diane Margo!!👋👋👋 <img src="https://giphy.com/gifs/cat-bongo-5WgViULHvtLPRTmW5C" width="50"></h2>
 
 <img align='right' src="https://art.pixilart.com/8c9e158c184a944.gif" width="230">
 
