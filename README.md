@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <a href="https://www.sce.com/">Southern California Edison</a><img src="https://pbs.twimg.com/profile_images/1217944376850014209/VyxO_Sqq_400x400.jpg" width="30">
 </em></p>
 Computer Science Graduate at 
-  <a href="https://www.cpp.edu/">Cal Poly Pomona </a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKxyXpa5tBQulWiI9L2e-nNkrJCUfXpI7MlINz250r8MNW_aazSGKORZp9EnigzygTQA&usqp=CAU" width="30"> 
+  <a href="https://www.cpp.edu/">Cal Poly Pomona 
 </em></p>
 
 <br>
