@@ -40,8 +40,8 @@ const diane = {
   pronouns: "she" | "her",
   code: [Java, Python, HTML, CSS, C++, C, C#, javascript],
   tools: [Unity, Android Studios, Git, Flutter],
-  interests: [software engineering, mobile/web development, game development, network],
-  goals: "I am working on side projects to keep my skills sharp"
+  interests: [software engineering, mobile/web development, game development, networks],
+  goals: "Working on side projects to keep my skills sharp"
 }
 ```
 
