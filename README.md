@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://c.tenor.com/lUFliafCu_MAAAAM/hello.gif" width="230">
 
-<p><em>IS Security Associate at 
+<p><em>IS Security Specialist at 
   <a href="https://www.sce.com/">Southern California Edison</a><img src="https://pbs.twimg.com/profile_images/1217944376850014209/VyxO_Sqq_400x400.jpg" width="30">
 </em></p>
 Computer Science Graduate at 
