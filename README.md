@@ -22,17 +22,19 @@ Here are some ideas to get you started:
 <img align='right' src="https://dmmargo.github.io/images/profile/linkedinprofile.jpg" width="230">
 
 <p><em>IS Security Specialist at 
-  <img src="https://github.com/dmmargo/dmmargo/blob/main/images/SCE%20Logo.jpeg?raw=true" width="30"> <a href="https://www.sce.com/">Southern California Edison </a>
-  
+  <a href="https://www.sce.com/">Southern California Edison </a><br>
+  <img src="https://github.com/dmmargo/dmmargo/blob/main/images/SCE%20Logo.jpeg?raw=true" width="20">
 </em></p>
 
 Master of Business Administration - Management at  
-  <img src="https://github.com/dmmargo/dmmargo/blob/main/images/csula%20logo.png?raw=true" width="30"> <a href="https://www.calstatela.edu/business/gradprog/mba">Cal State LA </a>
+  <a href="https://www.calstatela.edu/business/gradprog/mba">Cal State LA </a>
+  <img src="https://github.com/dmmargo/dmmargo/blob/main/images/csula%20logo.png?raw=true" width="20">
   
 </em></p>
 
 Bachelor of Science in Computer Science Graduate at 
-  <img src="https://github.com/dmmargo/dmmargo/blob/main/images/CPP%20logo.png?raw=true" width="30"> <a href="https://www.cpp.edu/">Cal Poly Pomona </a>
+  <a href="https://www.cpp.edu/">Cal Poly Pomona </a>
+  <img src="https://github.com/dmmargo/dmmargo/blob/main/images/CPP%20logo.png?raw=true" width="20">
 </em></p>
 
 <br>
@@ -42,7 +44,7 @@ Bachelor of Science in Computer Science Graduate at
 <!-- … 
 ### <img src="https://data.whicdn.com/images/251791502/original.gif" width="50"> A little more about me...  
 -->
-### <img src="https://cdn-icons-gif.flaticon.com/15578/15578588.gif" width="20"> A little more about me...  
+### <img src="https://cdn-icons-png.flaticon.com/256/3719/3719420.png" width="20"> A little more about me...  
 
 ```javascript
 const diane = {
