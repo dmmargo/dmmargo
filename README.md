@@ -22,10 +22,13 @@ Here are some ideas to get you started:
 <img align='right' src="https://c.tenor.com/lUFliafCu_MAAAAM/hello.gif" width="230">
 
 <p><em>IS Security Specialist at 
-  <a href="https://www.sce.com/">Southern California Edison</a><img src="https://github.com/dmmargo/dmmargo/blob/main/images/SCE%20Logo.jpeg?raw=true" width="30">
+  <a href="https://www.sce.com/">Southern California Edison </a><img src="https://github.com/dmmargo/dmmargo/blob/main/images/SCE%20Logo.jpeg?raw=true" width="30">
 </em></p>
-Computer Science Graduate at 
-  <a href="https://www.cpp.edu/">Cal Poly Pomona </a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKxyXpa5tBQulWiI9L2e-nNkrJCUfXpI7MlINz250r8MNW_aazSGKORZp9EnigzygTQA&usqp=CAU" width="30"> 
+Master of Business Administration - Management at  
+  <a href="(https://www.calstatela.edu/business/gradprog/mba)">Cal State LA </a><img src="https://github.com/dmmargo/dmmargo/blob/main/images/csula%20logo.png?raw=true" width="30"> 
+</em></p>
+Bachelor of Science in Computer Science Graduate at 
+  <a href="https://www.cpp.edu/">Cal Poly Pomona </a><img src="https://github.com/dmmargo/dmmargo/blob/main/images/CPP%20logo.png?raw=true" width="30"> 
 </em></p>
 
 <br>
