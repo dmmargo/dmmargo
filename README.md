@@ -54,7 +54,7 @@ const diane = {
   code: [SQL, Java, Python, HTML, CSS, C++, C, C#, javascript],
   tools: [MySQL, Unity, Android Studios, Git, Flutter],
   interests: [software engineering, mobile/web development, game development, networks],
-  goals/ambitions: "Leading a team | Building projects that fulfill me | Staying curious about safety and life as a whole"
+  goals/ambitions in life: "Lead/Contribute to Projects | Deepen Technical Skills | Stay Updated with Industry Trends | Build a Strong Personal Portfolio"
 }
 ```
 
