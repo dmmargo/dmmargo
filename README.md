@@ -26,12 +26,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/dmmargo/dmmargo/blob/main/images/SCE%20Logo.jpeg?raw=true" width="20">
 </em></p>
 
+<p><em>
 Master of Business Administration - Management at  
   <a href="https://www.calstatela.edu/business/gradprog/mba">Cal State LA </a>
   <img src="https://github.com/dmmargo/dmmargo/blob/main/images/csula%20logo.png?raw=true" width="20">
   
 </em></p>
 
+<p><em>
 Bachelor of Science in Computer Science Graduate at 
   <a href="https://www.cpp.edu/">Cal Poly Pomona </a>
   <img src="https://github.com/dmmargo/dmmargo/blob/main/images/CPP%20logo.png?raw=true" width="20">
