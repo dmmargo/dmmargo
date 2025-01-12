@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://c.tenor.com/lUFliafCu_MAAAAM/hello.gif" width="230">
 
 <p><em>IS Security Specialist at 
-  <a href="https://www.sce.com/">Southern California Edison</a><img src="[https://pbs.twimg.com/profile_images/1217944376850014209/VyxO_Sqq_400x400.jpg](https://www.sce.com/themes/custom/sce_responsive/images/Logo-512.png)" width="30">
+  <a href="https://www.sce.com/">Southern California Edison</a><img src="https://www.sce.com/themes/custom/sce_responsive/images/Logo-512.png" width="30">
 </em></p>
 Computer Science Graduate at 
   <a href="https://www.cpp.edu/">Cal Poly Pomona </a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKxyXpa5tBQulWiI9L2e-nNkrJCUfXpI7MlINz250r8MNW_aazSGKORZp9EnigzygTQA&usqp=CAU" width="30"> 
@@ -40,10 +40,10 @@ Computer Science Graduate at
 ```javascript
 const diane = {
   pronouns: "she" | "her",
-  code: [Java, Python, HTML, CSS, C++, C, C#, javascript],
-  tools: [Unity, Android Studios, Git, Flutter],
+  code: [SQL, Java, Python, HTML, CSS, C++, C, C#, javascript],
+  tools: [MySQL, Unity, Android Studios, Git, Flutter],
   interests: [software engineering, mobile/web development, game development, networks],
-  goals: "Working on side projects to keep my skills sharp"
+  goals/ambitions: "Leading a team | Building projects that fulfill me | Staying curious about safety and life as a whole"
 }
 ```
 
