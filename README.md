@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://c.tenor.com/lUFliafCu_MAAAAM/hello.gif" width="230">
 
 <p><em>IS Security Specialist at 
-  <a href="https://www.sce.com/">Southern California Edison</a><img src="https://pbs.twimg.com/profile_images/1217944376850014209/VyxO_Sqq_400x400.jpg" width="30">
+  <a href="https://www.sce.com/">Southern California Edison</a><img src="[https://pbs.twimg.com/profile_images/1217944376850014209/VyxO_Sqq_400x400.jpg](https://www.sce.com/themes/custom/sce_responsive/images/Logo-512.png)" width="30">
 </em></p>
 Computer Science Graduate at 
   <a href="https://www.cpp.edu/">Cal Poly Pomona </a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKxyXpa5tBQulWiI9L2e-nNkrJCUfXpI7MlINz250r8MNW_aazSGKORZp9EnigzygTQA&usqp=CAU" width="30"> 
@@ -32,8 +32,10 @@ Computer Science Graduate at
 <p>Check out my resume site that I'm so proud of: https://dmmargo.github.io/resume</p>
 <p>Here's the general information about me: https://dmmargo.github.io</p>
 
-
+<!-- … 
 ### <img src="https://data.whicdn.com/images/251791502/original.gif" width="50"> A little more about me...  
+-->
+### <img src="https://dmmargo.github.io/images/profile/linkedinprofile.jpg" width="50"> A little more about me...  
 
 ```javascript
 const diane = {
