@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2> Hello, I'm Diane Margo!!👋👋👋 <img src="https://thumbs.gfycat.com/FlawedBitesizedFantail-max-1mb.gif" width="50"></h2>
 
-<img align='right' src="https://c.tenor.com/lUFliafCu_MAAAAM/hello.gif" width="230">
+<img align='right' src="https://dmmargo.github.io/images/profile/linkedinprofile.jpg" width="230">
 
 <p><em>IS Security Specialist at 
   <a href="https://www.sce.com/">Southern California Edison </a> <br><img src="https://github.com/dmmargo/dmmargo/blob/main/images/SCE%20Logo.jpeg?raw=true" width="30">
@@ -38,7 +38,7 @@ Bachelor of Science in Computer Science Graduate at
 <!-- … 
 ### <img src="https://data.whicdn.com/images/251791502/original.gif" width="50"> A little more about me...  
 -->
-### <img src="https://dmmargo.github.io/images/profile/linkedinprofile.jpg" width="50"> A little more about me...  
+### <img src="https://data.whicdn.com/images/251791502/original.gif" width="50"> A little more about me...  
 
 ```javascript
 const diane = {
