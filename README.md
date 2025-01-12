@@ -40,8 +40,8 @@ Bachelor of Science in Computer Science Graduate at
 </em></p>
 
 <br>
-<p>Check out my resume site that I'm so proud of: https://dmmargo.github.io/resume</p>
-<p>Here's the general information about me: https://dmmargo.github.io</p>
+<p><img src="https://github.com/dmmargo/dmmargo/blob/main/images/resume%20icon.jpg?raw=true" width="20"> Check out my resume site that I'm so proud of: https://dmmargo.github.io/resume</p>
+<p><img src="https://github.com/dmmargo/dmmargo/blob/main/images/website%20icon.png?raw=true" width="20"> Here's the general information about me: https://dmmargo.github.io</p>
 
 <!-- … 
 ### <img src="https://data.whicdn.com/images/251791502/original.gif" width="50"> A little more about me...  
