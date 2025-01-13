@@ -60,7 +60,7 @@ const diane = {
 
 <!--![Diane's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmmargo&show_icons=true&theme=radical)-->
 
-![My Top Langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=dmmargo&layout=compact)
+![My Top Langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=dmmargo&layout=compact&theme=radical)
 
 
 <img src="https://thumbs.gfycat.com/HeftyGreenAidi-max-1mb.gif" width="60"> <em><b>I love connecting with different people</b> so <b>feel free to contact me anytime!</b>😀</em>
